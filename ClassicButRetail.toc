@@ -1,0 +1,8 @@
+## Interface: 110105
+## Title: ClassicButRetail
+## Notes: Removes just a little bit of the QoL of Retail to make it a little bit more immersive.
+## Author: Chibachi
+## Version: 0.0.1
+## SavedVariables: ClassicButRetail_SavedVars
+
+ClassicButRetail.lua
